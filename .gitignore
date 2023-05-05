@@ -27,6 +27,7 @@ out/
 
 ### VS Code ###
 .vscode/
+node_modules/
 
 ### Package Files ###
 *.jar
